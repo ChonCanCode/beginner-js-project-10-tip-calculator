@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: lightskyblue
+}
+
+.container {
+    width: 95%;
+    height: 100vh;
+    margin: auto;
+    display: flex
+}
